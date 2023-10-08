@@ -139,5 +139,18 @@ Computador/Celular próprio/Tablet próprio/Internet wifi/Internet 4G',
        'Computador/Celular próprio/Tablet compartilhado/Internet wifi'
 ```
 
+Temos 2 alterações agora:
+Antonio:
+A logica do tratamento dessa coluna foi juntar todos os dados, transfomando em apenas 4 categorias. 
+```
+Dispositivo proprio com internet compartilhada
+Dispositivo Proprio com internet propria
+Dispositivo compartilhado com internet compartilhada
+Dispositivo compartilhado com internet propria
+```
+Nelas, juntamos todos os tipos de dispositivos, sendo, computadores, telefones e tabletes. Juntamos tambem o tipo de internet usada, sendo wifi ou 4g. Para categorizar ,melhor, separamos em Proprio ou compartilhada.
+
+Amanda:
+
 
 <h1> Em contrução... </h1>
